@@ -136,12 +136,12 @@ The system expects **five sheets or CSV files** with the following names and col
 - Python 3.9+
 - Required libraries:
   ```bash
-  pip install pandas numpy openpyxl
+  pip install -r requirement.txt
 
 ## Usage
 
 ```bash
-python timetable_solver.py
+  python timetable_solver.py
 ```
 
 🎛️  TIMETABLE GENERATOR
