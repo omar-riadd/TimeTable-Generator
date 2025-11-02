@@ -1,0 +1,21 @@
+Day,StartTime,EndTime,TimeSlotID
+Sunday,9:00 AM,10:30 AM,TS0
+Sunday,10:45 AM,12:15 PM,TS1
+Sunday,12:30 PM,2:00 PM,TS2
+Sunday,2:15 PM,3:45 PM,TS3
+Monday,9:00 AM,10:30 AM,TS4
+Monday,10:45 AM,12:15 PM,TS5
+Monday,12:30 PM,2:00 PM,TS6
+Monday,2:15 PM,3:45 PM,TS7
+Tuesday,9:00 AM,10:30 AM,TS8
+Tuesday,10:45 AM,12:15 PM,TS9
+Tuesday,12:30 PM,2:00 PM,TS10
+Tuesday,2:15 PM,3:45 PM,TS11
+Wednesday,9:00 AM,10:30 AM,TS12
+Wednesday,10:45 AM,12:15 PM,TS13
+Wednesday,12:30 PM,2:00 PM,TS14
+Wednesday,2:15 PM,3:45 PM,TS15
+Thursday,9:00 AM,10:30 AM,TS16
+Thursday,10:45 AM,12:15 PM,TS17
+Thursday,12:30 PM,2:00 PM,TS18
+Thursday,2:15 PM,3:45 PM,TS19

@@ -1,0 +1,91 @@
+CourseID,CourseName,Credits,Type
+LRA401,Japanese Language (1),1,Lecture
+LRA402,Japanese Language (2),1,Lecture
+LRA403,Japanese Language (3),1,Lecture
+LRA404,Japanese Language (4),1,Lecture
+LRA405,Key Skills Seminar (1),2,Lecture
+LRA101,Japanese Culture,2,Lecture
+LRA208,Safety and Risk Management,2,Lecture
+LRA102,Introduction to Philosophy,2,Lecture
+LRA103,Fine Arts Appreciation-Drawing and Paintings,2,Lecture
+LRA104,Music and Technology,2,Lecture
+LRA105,Theater and Drama,2,Lecture
+LRA106,Physical Education,2,Lecture
+LRA107,Selected topics in Japanese arts,2,Lecture
+LRA108,Art and Architecture of Ancient Egypt,2,Lecture
+LRA109,Introduction to Cultural Anthropology,2,Lecture
+LRA110,Modern Egyptian History,2,Lecture
+LRA202,Peace studies,2,Lecture
+LRA203,Entrepreneurship and Innovation,2,Lecture
+LRA204,Public Policy,2,Lecture
+LRA205,Egyptian Business Regulations,2,Lecture
+LRA206,Sociology of work,2,Lecture
+LRA207,African and Middle Eastern studies,2,Lecture
+LRA201,Introduction to Economics and Sustainable Development,2,Lecture
+CSC316,Understanding Computers,2,Lecture
+LRA302,Introduction to Life Sciences,2,Lecture
+LRA303,Introduction to Environmental Biology,2,Lecture
+LRA304,Water and Politics in Africa and Middle East,2,Lecture
+LRA305,Astronomy,2,Lecture
+LRA306,Natural Resources and Sustainability,2,Lecture
+LRA406,Key Skills Seminar (2),2,Lecture
+LRA407,English Language,2,Lecture
+LRA408,Arabic Language,2,Lecture
+LRA409,Research Methods,2,Lecture
+LRA410,Fundamentals of Communication,2,Lecture
+LRA411,Transformational Leadership,2,Lecture
+MTH111,Mathematics (1) ( Calculus + Linear Algebra),3,Lecture and Lab
+MTH121,Mathematics (2) (Calculus + Linear Algebra),3,Lecture and Lab
+CSE312,Discrete Mathematics,3,Lecture and Lab
+MTH212,Probability and Statistics,3,Lecture and Lab
+PHY113,Physics 1,3,Lecture and Lab
+PHY123,Physics 2,3,Lecture and Lab
+BIO111,Fundamentals of life Science,3,Lecture and Lab
+ACM215,Ordinary Differential Equations,3,Lecture and Lab
+ACM323,Applied Numerical Methods,3,Lecture and Lab
+ACM422,Operations Research,3,Lecture and Lab
+CHM113,Chemistry (1),3,Lecture and Lab
+ECE223,Signal and Systems,3,Lecture and Lab
+AID323,Parallel & Distributed Computing,3,Lecture and Lab
+AID311,Mathematics of Data Science,3,Lecture and Lab
+AID321,Machine Learning,3,Lecture and Lab
+AID411,BIG Data Analytics & Visualization,3,Lecture and Lab
+AID412,Introduction to Neural network,3,Lecture and Lab
+AID421,Computer Vision,3,Lecture and Lab
+AID322,Data Mining,3,Lecture and Lab
+AID422,Natural Language Processing,3,Lecture and Lab
+AID324,Image Processing,3,Lecture and Lab
+AID413,Data Security,3,Lecture and Lab
+AID416,Reinforcement Learning,3,Lecture and Lab
+AID426,Robotics,3,Lecture and Lab
+AID328,Game Theory,3,Lecture and Lab
+AID427,New Trends in Data Science,3,Lecture and Lab
+AID428,New Trends in AI,3,Lecture and Lab
+AID326,Data Science in Business,3,Lecture and Lab
+AID417,Advanced Data Mining,3,Lecture and Lab
+AID327,Human Computer Interface,3,Lecture and Lab
+AID425,AI in Bio-Computing,3,Lecture and Lab
+AID325,BlockChain & Distributed Ledgers,3,Lecture and Lab
+AID414,Graduation Project (1),2,Lab
+AID424,Graduation Project (2),4,Lab
+AID423,Field Training (2 Modules),5,Lab
+CSC111,Fundamentals of Programming,3,Lecture and Lab
+CSC121,Data Structures and Algorithms,3,Lecture and Lab
+CSC122,Advanced Programming,3,Lecture and Lab
+CSC211,Software Engineering,3,Lecture and Lab
+CSC221,Operating Systems,3,Lecture and Lab
+AID312,Intelligent Systems,3,Lecture and Lab
+CNC311,Computer Networks,3,Lecture and Lab
+CNC314,Database Systems,3,Lecture and Lab
+ECE111,Digital Logic Design,3,Lecture and Lab
+CSE214,Computer Organization,3,Lecture and Lab
+CSC112,Project Management,3,Lecture and Lab
+CNC111,Networks and Web Programming,3,Lecture and Lab
+CSC113,Compiler Design,3,Lecture and Lab
+CSC114,Algorithms Analysis and Design,3,Lecture and Lab
+CSE423,Computer Graphics and Visualization,3,Lecture and Lab
+AID111,Data Science,3,Lecture and Lab
+ECE214,Digital Signal Processing,3,Lecture and Lab
+ECE213,Introduction to Electronics Engineering,3,Lecture and Lab
+CNC222,Introduction to Embedded Systems,3,Lecture and Lab
+AID221,Introduction to Artificial Intelligence,3,Lecture and Lab
